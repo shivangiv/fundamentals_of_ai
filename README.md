@@ -2,6 +2,6 @@ Analyzing [open policing](https://openpolicing.stanford.edu/data/) for Massachus
 
 In this analysis:
 
-Exploratory Data Analysis
-Feature Engineering
-ML Models for exploring racial bias and prevalence of discriminatory profiling.
+Exploratory Data Analysis<br>
+Feature Engineering<br>
+ML Models for exploring racial bias and prevalence of discriminatory profiling.<br>
