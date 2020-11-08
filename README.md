@@ -1,4 +1,4 @@
-Analyzing [open policing](https://openpolicing.stanford.edu/data/){:target="_blank"} for Massachusetts.
+Analyzing [open policing](https://openpolicing.stanford.edu/data/) for Massachusetts.
 
 In this analysis:
 
